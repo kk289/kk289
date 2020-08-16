@@ -13,4 +13,4 @@
 
 ## GitHub Stats 📊
 
-<img align="center" src="https://readme.kk289.dev/api?username=kk289&show_icons=true&include_all_commits=true&theme=dark" alt="Kevil's GitHub stats" />
+[![Kevil's github stats](https://github-readme-stats.vercel.app/api?username=kk289)](https://github.com/kk289/kk289)
