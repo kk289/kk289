@@ -13,4 +13,4 @@
 
 ## GitHub Stats 📊
 
-[![Kevil's github stats](https://github-readme-stats.vercel.app/api?username=kk289&show_icons=true&theme=dark)](https://github.com/kk289/kk289)
+[![Kevil's github stats](https://github-readme-stats.vercel.app/api?username=kk289&show_icons=true&theme=dracula)](https://github.com/kk289/kk289)
