@@ -1,11 +1,5 @@
 ### Hello World. I'm Kevil Khadka <img src="https://files.aashutosh.dev/hey.gif" width="32px">
 
-<a href="https://www.linkedin.com/in/kevilkhadka" target="_blank">![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Kevil%20Khadka-blue)</a>
-
-<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/kevilkhadka">Link</a>
-
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools!</a>
-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Kevil%20Khadka-blue)](https://www.linkedin.com/in/kevilkhadka/)
 [![Github Bagde](https://img.shields.io/github/followers/kk289?style=social)](https://github.com/kk289?tab=followers)
 
@@ -13,7 +7,7 @@
 - 🌱  I’m currently learning a Java language.
 - 👯  I’m looking to collaborate on projects made with python, java, R etc.
 - 📫  How to reach me: https://www.linkedin.com/in/kevilkhadka/
-- 😄  Pronouns: He/Him 🙍🏻‍♂️
+- 😄  Pronunciation: k-vil
 
 ## GitHub Stats 📊
 
