@@ -1,7 +1,7 @@
 ### Hello World. I'm Kevil Khadka <img src="https://files.aashutosh.dev/hey.gif" width="32px">
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Kevil%20Khadka-blue)(https://www.linkedin.com/in/kevilkhadka/){:target="_blank"}
-[![Github Bagde](https://img.shields.io/github/followers/kk289?style=social)(https://github.com/kk289?tab=followers){:target="_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Kevil%20Khadka-blue)](https://www.linkedin.com/in/kevilkhadka/){:target="_blank"}
+[![Github Bagde](https://img.shields.io/github/followers/kk289?style=social)](https://github.com/kk289?tab=followers){:target="_blank"}
 
 - 🔭  I’m currently searching for a full-time job position in data science field.
 - 🌱  I’m currently learning a Java language.
