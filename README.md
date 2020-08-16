@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/url?color=Blue&label=%40KevilKhadka&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FKevilKhadka)](https://twitter.com/KevilKhadka) 
 
 - 🔭 I’m currently finding a full-time job position.
-- 🌱 I’m currently learning a Java lanaguage.
+- 🌱 I’m currently learning a Java language.
 - 👯 I’m looking to collaborate on projects made with python, java, R etc.
 - 🤔 I’m looking for full-time job in Data Science field.
 - 📫 How to reach me: https://www.linkedin.com/in/kevilkhadka/
