@@ -12,7 +12,7 @@
 
 ## GitHub Stats 📊
 
-[![Kevil's github stats](https://kk289-8imc8o73k.vercel.app/api?username=kk289&show_icons=true&theme=tokyonight)](https://github.com/kk289/kk289)
+[![Kevil's github stats](https://github-readme-stats.vercel.app/api?username=kk289&show_icons=true&theme=tokyonight)](https://github.com/kk289/kk289)
 
 ## Top Languages Cards 📊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kk289&layout=compact)](https://github.com/kk289)
