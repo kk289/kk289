@@ -7,8 +7,8 @@
 - 🌱  I’m currently learning a Java language.
 - 👯  I’m looking to collaborate on projects made with python, java, R etc.
 - 📫  How to reach me: https://www.linkedin.com/in/kevilkhadka/
-- 😄  Pronunciation: k-vil
-- 😄  Pronouns: He/Him/His 🙍🏻‍♂️
+- 😄  Pronunce: k-vil
+- 😄  Pronoun: He/Him/His 🙍🏻‍♂️
 
 ## GitHub Stats 📊
 
