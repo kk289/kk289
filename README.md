@@ -2,6 +2,8 @@
 
 <a href="https://www.linkedin.com/in/kevilkhadka" target="_blank">![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Kevil%20Khadka-blue)</a>
 
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/kevilkhadka">Link</a>
+
 <a href="https://www.w3schools.com" target="_blank">Visit W3Schools!</a>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Kevil%20Khadka-blue)](https://www.linkedin.com/in/kevilkhadka/)
