@@ -2,6 +2,8 @@
 
 <a href="https://www.linkedin.com/in/kevilkhadka/" target="_blank">[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Kevil%20Khadka-blue)]</a>
 
+<a href="https://www.thesitewizard.com/" target="_blank">thesitewizard.com</a>
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Kevil%20Khadka-blue)](https://www.linkedin.com/in/kevilkhadka/)
 [![Github Bagde](https://img.shields.io/github/followers/kk289?style=social)](https://github.com/kk289?tab=followers)
 
