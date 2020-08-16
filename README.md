@@ -18,5 +18,6 @@
 ## Top Languages Cards 📊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kk289&layout=compact)](https://github.com/kk289/kk289)
 
-## Airbnb Price Prediction <img height="32" width="32" src="https://simpleicons.org/icons/github.svg" />
-[![Github Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=kk289&repo=Airbnb-Price-Prediction)](https://github.com/kk289/Airbnb-Price-Prediction)
+## Github Extra Pins <img height="32" width="32" src="https://simpleicons.org/icons/github.svg" />
+[![Airbnb Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=kk289&repo=Airbnb-Price-Prediction)](https://github.com/kk289/Airbnb-Price-Prediction)
+[![Predicting-Customer-Lifetime-Value_CLV](https://github-readme-stats.vercel.app/api/pin/?username=kk289&repo=Predicting-Customer-Lifetime-Value_CLV)](https://github.com/kk289/Predicting-Customer-Lifetime-Value_CLV)
