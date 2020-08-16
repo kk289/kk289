@@ -19,6 +19,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kk289&layout=compact)](https://github.com/kk289/kk289)
 
 ## Popular Repo <img height="32" width="32" src="https://simpleicons.org/icons/github.svg" />
-[![GeoSpatial](https://github-readme-stats.vercel.app/api/pin/?username=kk289&repo=GeoSpatial)](https://github.com/kk289/GeoSpatial)
-[![Predicting-Customer-Lifetime-Value_CLV](https://github-readme-stats.vercel.app/api/pin/?username=kk289&repo=Predicting-Customer-Lifetime-Value_CLV)](https://github.com/kk289/Predicting-Customer-Lifetime-Value_CLV)
-[![Airbnb Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=kk289&repo=Airbnb-Price-Prediction)](https://github.com/kk289/Airbnb-Price-Prediction)
+[![GeoSpatial](https://github-readme-stats.vercel.app/api/pin/?username=kk289&repo=GeoSpatial&show_owner=true)](https://github.com/kk289/GeoSpatial)
+[![Predicting-Customer-Lifetime-Value_CLV](https://github-readme-stats.vercel.app/api/pin/?username=kk289&repo=Predicting-Customer-Lifetime-Value_CLV&show_owner=true)](https://github.com/kk289/Predicting-Customer-Lifetime-Value_CLV)
+[![Airbnb Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=kk289&repo=Airbnb-Price-Prediction&show_owner=true)](https://github.com/kk289/Airbnb-Price-Prediction)
