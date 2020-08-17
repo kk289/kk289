@@ -8,6 +8,8 @@
 </a>
 
 <br />
+<br />
+
 
 - 🔭  I’m currently searching for a full-time job position in data science field.
 - 🌱  I’m currently learning a Java language.
