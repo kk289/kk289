@@ -12,6 +12,8 @@
 
 <a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank"{{ end }}>{{ .Text }}</a>
 
+
+
 - 🔭  I’m currently searching for a full-time job position in data science field.
 - 🌱  I’m currently learning a Java language.
 - 👯  I’m looking to collaborate on projects made with python, java, R etc.
