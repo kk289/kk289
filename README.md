@@ -14,7 +14,7 @@
 - 🌱  I’m currently learning a Java language.
 - 👯  I’m looking to collaborate on projects made with python, java, R etc.
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/kevilkhadka/)
-- 😄  Pronunce: k-vil
+- 😄  Pronounce: k-vil
 - 😄  Pronoun: He/Him/His 🙍🏻‍♂️
 
 ## Languages
