@@ -1,6 +1,6 @@
 ### Hello World. I'm Kevil Khadka <img src="https://files.aashutosh.dev/hey.gif" width="32px">
 
-<a href="https://www.linkedin.com/in/kevilkhadka/" target="_blank">
+<a href="https://www.linkedin.com/in/kevilkhadka/" target="_blank" rel="noopener">
   <img align="left" src="https://img.shields.io/badge/LinkedIn-Kevil%20Khadka-blue" />
 </a>
 <a href="https://github.com/kk289?tab=followers" target="_blank">
@@ -9,10 +9,6 @@
 
 <br />
 <br />
-
-<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank"{{ end }}>{{ .Text }}</a>
-
-
 
 - 🔭  I’m currently searching for a full-time job position in data science field.
 - 🌱  I’m currently learning a Java language.
