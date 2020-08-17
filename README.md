@@ -13,7 +13,7 @@
 - 🔭  I’m currently searching for a full-time job position in data science field.
 - 🌱  I’m currently learning a Java language.
 - 👯  I’m looking to collaborate on projects made with python, java, R etc.
-- 📫  How to reach me: [Click Here](https://www.linkedin.com/in/kevilkhadka/)
+- 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/kevilkhadka/)
 - 😄  Pronunce: k-vil
 - 😄  Pronoun: He/Him/His 🙍🏻‍♂️
 
@@ -53,7 +53,7 @@
 
 <code><img height="20" src="https://simpleicons.org/icons/rstudio.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/octave.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/visualstudio.svg"></code>    
+<code><img height="20" src="https://simpleicons.org/icons/visualstudio.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/microsoftword.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/microsoftexcel.svg"></code> 
 <code><img height="20" src="https://simpleicons.org/icons/microsoftoutlook.svg"></code>
