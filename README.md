@@ -59,7 +59,7 @@
 <code><img height="32" src="https://simpleicons.org/icons/microsoftoutlook.svg"></code>
 <code><img height="32" src="https://simpleicons.org/icons/microsoftpowerpoint.svg"></code>
 <code><img height="32" src="https://simpleicons.org/icons/microsoftsqlserver.svg"></code>
-<code><img height="32" src="https://simpleicons.org/icons/microsoftonedrive.svg"></code>
+<code><img height="32" src="https://download.logo.wine/logo/OneDrive/OneDrive-Logo.wine.png"></code>
 
 <br />
 
