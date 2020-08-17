@@ -52,6 +52,7 @@
 ## Software
 
 <code><img height="32" src="https://simpleicons.org/icons/rstudio.svg"></code>
+<code><img height="32" src="https://simpleicons.org/icons/mathworks.svg"></code>
 <code><img height="32" src="https://simpleicons.org/icons/octave.svg"></code>
 <code><img height="32" src="https://simpleicons.org/icons/visualstudio.svg"></code>
 <code><img height="32" src="https://simpleicons.org/icons/microsoftword.svg"></code>
