@@ -1,13 +1,8 @@
 ### Hello World. I'm Kevil Khadka <img src="https://files.aashutosh.dev/hey.gif" width="32px">
 
-// Extension
-showdown.extension('targetlink', function() {
-  return [{
-    type: 'html',
-    regex: /(<a [^>]+?)(>.*<\/a>)/g,
-    replace: '$1 target="_blank"$2'
-  }];
-});
+<a href="https://www.linkedin.com/in/kevilkhadka/" target="_blank">
+  <img align="left" width="40px" src="https://img.shields.io/badge/LinkedIn-Kevil%20Khadka-blue" />
+</a>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Kevil%20Khadka-blue)](https://www.linkedin.com/in/kevilkhadka/){:target="_blank"}
 
