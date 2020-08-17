@@ -61,6 +61,8 @@
 <code><img height="32" src="https://simpleicons.org/icons/microsoftsqlserver.svg"></code>
 <code><img height="32" src="https://simpleicons.org/icons/microsoftonedrive.svg"></code>
 
+<br />
+
 ## GitHub Stats 📊
 
 [![Kevil's github stats](https://github-readme-stats.vercel.app/api?username=kk289&show_icons=true&theme=tokyonight)](https://github.com/kk289/kk289)
