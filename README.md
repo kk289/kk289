@@ -10,7 +10,7 @@
 <br />
 <br />
 
-- 🔭  I’m currently searching for a full-time job position in the data science field.
+- 🔭  I’m currently searching a full-time job position in the data science field.
 - 🌱  I’m currently learning Java language.
 - 👯  I’m looking to collaborate on projects written in Python, Java, R, etc.
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/kevilkhadka/)
