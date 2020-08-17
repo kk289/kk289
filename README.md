@@ -10,7 +10,7 @@
 <br />
 <br />
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank"{{ end }}>{{ .Text }}</a>
 
 - 🔭  I’m currently searching for a full-time job position in data science field.
 - 🌱  I’m currently learning a Java language.
