@@ -9,7 +9,7 @@
 
 <a href="http://www.luasoftware.com/" target="_blank">External link with _target blank</a>
 
-[Relref with_target blank]({{< relref "how-to-install-hugo-on-ubuntu.md" >}})
+[Lua Software](http://www.luasoftware.com){:target="_blank"}
 
 <br />
 <br />
