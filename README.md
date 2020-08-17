@@ -7,6 +7,8 @@
   <img align="left" src="https://img.shields.io/github/followers/kk289?style=social" />
 </a>
 
+<a href="/tutorials/hugo/how-to-install-hugo-on-ubuntu/" target="_blank">Ref with_target blank</a>
+
 <a href="http://www.luasoftware.com/" target="_blank">External link with _target blank</a>
 
 [Lua Software](http://www.luasoftware.com)({:target="_blank"})
