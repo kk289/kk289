@@ -7,6 +7,8 @@
   <img align="left" src="https://img.shields.io/github/followers/kk289?style=social" />
 </a>
 
+<a href="http://www.luasoftware.com/" target="_blank">External link with _target blank</a>
+
 <br />
 <br />
 
