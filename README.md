@@ -10,9 +10,9 @@
 <br />
 <br />
 
-- 🔭  I’m currently searching for a full-time job position in data science field.
+- 🔭  I’m currently searching for a full-time job position in the data science field.
 - 🌱  I’m currently learning Java language.
-- 👯  I’m looking to collaborate on projects made with python, java, R etc.
+- 👯  I’m looking to collaborate on projects written in Python, Java, R, etc.
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/kevilkhadka/)
 - 😄  Pronounce: k-vil
 - 😄  Pronoun: He/Him/His 🙍🏻‍♂️
