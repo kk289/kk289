@@ -19,47 +19,47 @@
 
 ## Languages
 
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" /></code> 
-<code><img height="20" src="https://simpleicons.org/icons/python.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/c.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/cplusplus.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/java.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/gnubash.svg"></code>    
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code> 
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="32" src="https://simpleicons.org/icons/cplusplus.svg"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>    
 
 ## Databases/Data Formats
-<code><img height="20" src="https://simpleicons.org/icons/mongodb.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/mysql.svg"></code> 
-<code><img height="20" src="https://simpleicons.org/icons/postgresql.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/sqlite.svg"></code> 
-<code><img height="20" src="https://simpleicons.org/icons/json.svg"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
+<code><img height="32" src="https://simpleicons.org/icons/postgresql.svg"></code>
+<code><img height="32" src="https://simpleicons.org/icons/sqlite.svg"></code> 
+<code><img height="32" src="https://simpleicons.org/icons/json.svg"></code>
 
 ## Cloud Computing
 
-<code><img height="20" src="https://simpleicons.org/icons/amazonaws.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/googlecloud.svg"></code> 
-<code><img height="20" src="https://simpleicons.org/icons/ibm.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/microsoftazure.svg"></code> 
+<code><img height="32" src="https://simpleicons.org/icons/amazonaws.svg"></code>
+<code><img height="32" src="https://simpleicons.org/icons/googlecloud.svg"></code> 
+<code><img height="32" src="https://simpleicons.org/icons/ibm.svg"></code>
+<code><img height="32" src="https://simpleicons.org/icons/microsoftazure.svg"></code> 
 
 ## Platforms
 
-<code><img height="20" src="https://simpleicons.org/icons/anaconda.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/jupyter.svg"></code> 
-<code><img height="20" src="https://simpleicons.org/icons/powerbi.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/tableau.svg"></code> 
-<code><img height="20" src="https://simpleicons.org/icons/github.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/sublimetext.svg"></code>
+<code><img height="32" src="https://simpleicons.org/icons/anaconda.svg"></code>
+<code><img height="32" src="https://simpleicons.org/icons/jupyter.svg"></code> 
+<code><img height="32" src="https://simpleicons.org/icons/powerbi.svg"></code>
+<code><img height="32" src="https://simpleicons.org/icons/tableau.svg"></code> 
+<code><img height="32" src="https://simpleicons.org/icons/github.svg"></code>
+<code><img height="32" src="https://simpleicons.org/icons/sublimetext.svg"></code>
 
 ## Software
 
-<code><img height="20" src="https://simpleicons.org/icons/rstudio.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/octave.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/visualstudio.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/microsoftword.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/microsoftexcel.svg"></code> 
-<code><img height="20" src="https://simpleicons.org/icons/microsoftoutlook.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/microsoftpowerpoint.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/microsoftsqlserver.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/microsoftonedrive.svg"></code>
+<code><img height="32" src="https://simpleicons.org/icons/rstudio.svg"></code>
+<code><img height="32" src="https://simpleicons.org/icons/octave.svg"></code>
+<code><img height="32" src="https://simpleicons.org/icons/visualstudio.svg"></code>
+<code><img height="32" src="https://simpleicons.org/icons/microsoftword.svg"></code>
+<code><img height="32" src="https://simpleicons.org/icons/microsoftexcel.svg"></code> 
+<code><img height="32" src="https://simpleicons.org/icons/microsoftoutlook.svg"></code>
+<code><img height="32" src="https://simpleicons.org/icons/microsoftpowerpoint.svg"></code>
+<code><img height="32" src="https://simpleicons.org/icons/microsoftsqlserver.svg"></code>
+<code><img height="32" src="https://simpleicons.org/icons/microsoftonedrive.svg"></code>
 
 ## GitHub Stats 📊
 
