@@ -7,6 +7,8 @@
   <img align="left" src="https://img.shields.io/github/followers/kk289?style=social" />
 </a>
 
+<br />
+
 - 🔭  I’m currently searching for a full-time job position in data science field.
 - 🌱  I’m currently learning a Java language.
 - 👯  I’m looking to collaborate on projects made with python, java, R etc.
