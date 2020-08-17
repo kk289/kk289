@@ -1,4 +1,0 @@
-# https://gohugo.io/getting-started/configuration/#configure-blackfriday
-[blackfriday]
-  plainIDAnchors = true
-  hrefTargetBlank = true
