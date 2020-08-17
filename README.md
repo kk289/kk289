@@ -19,7 +19,7 @@
 
 ## Languages
 
-<code><img height="20" src="https://simpleicons.org/icons/r.svg"></code> 
+<code><img height="20" src="https://simpleicons.org/icons/r.svg" class="filter-green"></code> 
 <code><img height="20" src="https://simpleicons.org/icons/python.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/c.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/cplusplus.svg"></code>
