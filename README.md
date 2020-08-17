@@ -15,7 +15,6 @@
 - 👯  I’m looking to collaborate on projects written in Python, Java, R, etc.
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/kevilkhadka/)
 - 😄  Pronounce: k-vil
-- 🏻‍♂️ Pronoun: He/Him/His
 
 ## Languages
 
