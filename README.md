@@ -61,6 +61,7 @@
 <code><img height="32" src="https://simpleicons.org/icons/microsoftsqlserver.svg"></code>
 <code><img height="32" src="https://download.logo.wine/logo/OneDrive/OneDrive-Logo.wine.png"></code>
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+
 <br />
 
 ## GitHub Stats 📊
