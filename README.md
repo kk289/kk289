@@ -18,7 +18,7 @@
 
 ## Languages
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code> 
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"><span title="R Programming Language"></span></code> 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="32" src="https://simpleicons.org/icons/cplusplus.svg"></code>
@@ -60,11 +60,6 @@
 <code><img height="32" src="https://simpleicons.org/icons/microsoftpowerpoint.svg"></code>
 <code><img height="32" src="https://simpleicons.org/icons/microsoftsqlserver.svg"></code>
 <code><img height="32" src="https://download.logo.wine/logo/OneDrive/OneDrive-Logo.wine.png"></code>
-
-<link rel="apple-touch-icon-precomposed" href="apple-touch-iphone.png" />
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-ipad.png" />
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-iphone4.png" />
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-ipad-retina.png" />
 
 <br />
 
