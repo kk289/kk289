@@ -67,8 +67,8 @@
 
 [![Kevil's github stats](https://github-readme-stats.vercel.app/api?username=kk289&show_icons=true&theme=tokyonight)](https://github.com/kk289)
 
-## Top Languages Cards 📊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kk289&layout=compact)](https://github.com/kk289)
+## Top Programming Languages Card 📊
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kk289)](https://github.com/kk289)
 
 ## Popular Repo <img height="32" width="32" src="https://simpleicons.org/icons/github.svg" />
 [![GeoSpatial](https://github-readme-stats.vercel.app/api/pin/?username=kk289&repo=GeoSpatial&show_owner=true)](https://github.com/kk289/GeoSpatial)
