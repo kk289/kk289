@@ -60,7 +60,11 @@
 <code><img height="32" src="https://simpleicons.org/icons/microsoftpowerpoint.svg"></code>
 <code><img height="32" src="https://simpleicons.org/icons/microsoftsqlserver.svg"></code>
 <code><img height="32" src="https://download.logo.wine/logo/OneDrive/OneDrive-Logo.wine.png"></code>
-<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+
+<link rel="apple-touch-icon-precomposed" href="apple-touch-iphone.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-ipad.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-iphone4.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-ipad-retina.png" />
 
 <br />
 
