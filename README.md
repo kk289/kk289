@@ -18,29 +18,7 @@
 
 ## Languages
 
-<style>
-  .tooltip {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black;
-  }
-  .tooltip .tooltiptext {
-  visibility: hidden;
-  width: 120px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
-  position: absolute;
-  z-index: 1;
-  }
-  .tooltip:hover .tooltiptext {
-  visibility: visible;
-  }
-</style>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"><span class="tooltiptext">R Programming Language</span></code> 
-
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code> 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="32" src="https://simpleicons.org/icons/cplusplus.svg"></code>
