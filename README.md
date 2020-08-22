@@ -109,6 +109,11 @@
 ## Platforms
 
 <code>
+   <span title="Github">
+    <a href="https://github.com/kk289">
+      <img height="40" src="https://simpleicons.org/icons/github.svg">
+    </a>
+  </span>
   <span title="ANACONDA">
     <a href="https://www.anaconda.com/">
       <img height="40" src="https://simpleicons.org/icons/anaconda.svg">
@@ -129,11 +134,6 @@
       <img height="40" src="https://simpleicons.org/icons/tableau.svg">
     </a>
   </span>
-  <span title="Github">
-    <a href="https://github.com/kk289">
-      <img height="40" src="https://simpleicons.org/icons/github.svg">
-    </a>
-  </span>
   <span title="Sublime Text">
     <a href="https://www.sublimetext.com/">
       <img height="40" src="https://simpleicons.org/icons/sublimetext.svg">
@@ -143,16 +143,58 @@
 
 ## Software
 
-<code><img height="40" src="https://simpleicons.org/icons/rstudio.svg"></code>
-<code><img height="40" src="https://simpleicons.org/icons/mathworks.svg"></code>
-<code><img height="40" src="https://simpleicons.org/icons/octave.svg"></code>
-<code><img height="40" src="https://simpleicons.org/icons/visualstudio.svg"></code>
-<code><img height="40" src="https://simpleicons.org/icons/microsoftword.svg"></code>
-<code><img height="40" src="https://simpleicons.org/icons/microsoftexcel.svg"></code> 
-<code><img height="40" src="https://simpleicons.org/icons/microsoftoutlook.svg"></code>
-<code><img height="40" src="https://simpleicons.org/icons/microsoftpowerpoint.svg"></code>
-<code><img height="40" src="https://simpleicons.org/icons/microsoftsqlserver.svg"></code>
-<code><img height="40" src="https://download.logo.wine/logo/OneDrive/OneDrive-Logo.wine.png"></code>
+<code>
+  <span title="RStudio">
+    <a href="https://rstudio.com/">
+      <img height="40" src="https://simpleicons.org/icons/rstudio.svg">
+    </a>
+  </span>
+  <span title="MATLAB">
+    <a href="https://www.mathworks.com/products/matlab.html">
+      <img height="40" src="https://simpleicons.org/icons/mathworks.svg">
+    </a>
+  </span>
+  <span title="Octave">
+    <a href="https://www.gnu.org/software/octave/">
+      <img height="40" src="https://simpleicons.org/icons/octave.svg">
+    </a>
+  </span>
+  <span title="Visual Studio">
+    <a href="https://visualstudio.microsoft.com/">
+      <img height="40" src="https://simpleicons.org/icons/visualstudio.svg">
+    </a>
+  </span>
+  <span title="Microsoft Word">
+    <a href="https://www.microsoft.com/en-us/microsoft-365/word">
+      <img height="40" src="https://simpleicons.org/icons/microsoftword.svg">
+    </a>
+  </span>
+  <span title="Microsft Excel">
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+      <img height="40" src="https://simpleicons.org/icons/microsoftexcel.svg">
+    </a>
+  </span>
+  <span title="Microsoft Outlook">
+    <a href="https://www.microsoft.com/en-us/microsoft-365/outlook">
+      <img height="40" src="https://simpleicons.org/icons/microsoftoutlook.svg">
+    </a>
+  </span>
+  <span title="Microsft Powerpoint">
+    <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint">
+      <img height="40" src="https://simpleicons.org/icons/microsoftpowerpoint.svg">
+    </a>
+  </span>
+  <span title="Microsoft SQLServer">
+    <a href="https://www.microsoft.com/en-us/sql-server">
+      <img height="40" src="https://simpleicons.org/icons/microsoftsqlserver.svg">
+    </a>
+  </span>
+  <span title="Microsoft OneDrive">
+    <a href="https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage">
+      <img height="40" src="https://download.logo.wine/logo/OneDrive/OneDrive-Logo.wine.png">
+    </a>
+  </span>
+</code>
 
 <br />
 
