@@ -52,40 +52,107 @@
 </code>    
 
 ## Databases/Data Formats
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="32" src="https://simpleicons.org/icons/sqlite.svg"></code> 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
+
+<code>
+  <span title="MongoDb">
+    <a href="https://www.mongodb.com/">
+      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+    </a>
+  </span>
+  <span title="MySQL">
+    <a href="https://www.mysql.com/">
+      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+    </a>
+  </span>
+  <span title="PostgreSQL">
+    <a href="https://www.postgresql.org/">
+      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+    </a>
+  </span>
+  <span title="SQLite">
+    <a href="https://www.sqlite.org/index.html">
+     <img height="40" src="https://simpleicons.org/icons/sqlite.svg">
+    </a>
+  </span>
+  <span title="JSON">
+    <a href="https://www.json.org/json-en.html">
+      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
+    </a>
+  </span>
+</code>
 
 ## Cloud Computing
 
-<code><img height="32" src="https://simpleicons.org/icons/amazonaws.svg"></code>
-<code><img height="32" src="https://simpleicons.org/icons/googlecloud.svg"></code> 
-<code><img height="32" src="https://simpleicons.org/icons/ibm.svg"></code>
-<code><img height="32" src="https://simpleicons.org/icons/microsoftazure.svg"></code> 
+<code>
+  <span title="Amazon AWS">
+    <a href="https://aws.amazon.com/">
+      <img height="40" src="https://simpleicons.org/icons/amazonaws.svg">
+    </a>
+  </span>
+  <span title="Google Cloud">
+    <a href="https://cloud.google.com/">
+      <img height="40" src="https://simpleicons.org/icons/googlecloud.svg">
+    </a>
+  </span>
+  <span title="IBM Cloud">
+    <a href="https://www.ibm.com/cloud">
+      <img height="40" src="https://simpleicons.org/icons/ibm.svg">
+    </a>
+  </span>
+  <span title="Microsoft Azure">
+    <a href="https://azure.microsoft.com/en-us/">
+      <img height="40" src="https://simpleicons.org/icons/microsoftazure.svg">
+    </a>
+  </span>
+</code> 
 
 ## Platforms
 
-<code><img height="32" src="https://simpleicons.org/icons/anaconda.svg"></code>
-<code><img height="32" src="https://simpleicons.org/icons/jupyter.svg"></code> 
-<code><img height="32" src="https://simpleicons.org/icons/powerbi.svg"></code>
-<code><img height="32" src="https://simpleicons.org/icons/tableau.svg"></code> 
-<code><img height="32" src="https://simpleicons.org/icons/github.svg"></code>
-<code><img height="32" src="https://simpleicons.org/icons/sublimetext.svg"></code>
+<code>
+  <span title="ANACONDA">
+    <a href="https://www.anaconda.com/">
+      <img height="40" src="https://simpleicons.org/icons/anaconda.svg">
+    </a>
+  </span>
+  <span title="Jupyter">
+    <a href="https://jupyter.org/">
+      <img height="40" src="https://simpleicons.org/icons/jupyter.svg"> 
+    </a>
+  </span>
+  <span title="PowerBI">
+    <a href="https://powerbi.microsoft.com/en-us/">
+      <img height="40" src="https://simpleicons.org/icons/powerbi.svg">
+    </a>
+  </span>
+  <span title="Tableau">
+    <a href="https://www.tableau.com/">
+      <img height="40" src="https://simpleicons.org/icons/tableau.svg">
+    </a>
+  </span>
+  <span title="Github">
+    <a href="https://github.com/kk289">
+      <img height="40" src="https://simpleicons.org/icons/github.svg">
+    </a>
+  </span>
+  <span title="Sublime Text">
+    <a href="https://www.sublimetext.com/">
+      <img height="40" src="https://simpleicons.org/icons/sublimetext.svg">
+    </a>
+  </span>
+</code>
 
 ## Software
 
-<code><img height="32" src="https://simpleicons.org/icons/rstudio.svg"></code>
-<code><img height="32" src="https://simpleicons.org/icons/mathworks.svg"></code>
-<code><img height="32" src="https://simpleicons.org/icons/octave.svg"></code>
-<code><img height="32" src="https://simpleicons.org/icons/visualstudio.svg"></code>
-<code><img height="32" src="https://simpleicons.org/icons/microsoftword.svg"></code>
-<code><img height="32" src="https://simpleicons.org/icons/microsoftexcel.svg"></code> 
-<code><img height="32" src="https://simpleicons.org/icons/microsoftoutlook.svg"></code>
-<code><img height="32" src="https://simpleicons.org/icons/microsoftpowerpoint.svg"></code>
-<code><img height="32" src="https://simpleicons.org/icons/microsoftsqlserver.svg"></code>
-<code><img height="32" src="https://download.logo.wine/logo/OneDrive/OneDrive-Logo.wine.png"></code>
+<code><img height="40" src="https://simpleicons.org/icons/rstudio.svg"></code>
+<code><img height="40" src="https://simpleicons.org/icons/mathworks.svg"></code>
+<code><img height="40" src="https://simpleicons.org/icons/octave.svg"></code>
+<code><img height="40" src="https://simpleicons.org/icons/visualstudio.svg"></code>
+<code><img height="40" src="https://simpleicons.org/icons/microsoftword.svg"></code>
+<code><img height="40" src="https://simpleicons.org/icons/microsoftexcel.svg"></code> 
+<code><img height="40" src="https://simpleicons.org/icons/microsoftoutlook.svg"></code>
+<code><img height="40" src="https://simpleicons.org/icons/microsoftpowerpoint.svg"></code>
+<code><img height="40" src="https://simpleicons.org/icons/microsoftsqlserver.svg"></code>
+<code><img height="40" src="https://download.logo.wine/logo/OneDrive/OneDrive-Logo.wine.png"></code>
 
 <br />
 
