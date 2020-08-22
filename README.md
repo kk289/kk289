@@ -18,12 +18,38 @@
 
 ## Languages
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code> 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="32" src="https://simpleicons.org/icons/cplusplus.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>    
+<code>
+  <span title="R">
+    <a href="https://www.r-project.org/" target=”_blank” rel="noopener">
+      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
+    </a>
+  </span>
+  <span title="Python">
+    <a href="https://www.python.org/">
+      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+    </a>
+  </span>
+  <span title="C">
+    <a href="https://www.cprogramming.com/">
+      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
+    </a>
+  </span>
+  <span title="C++">
+    <a href="https://www.cprogramming.com/">
+      <img height="40" src="https://simpleicons.org/icons/cplusplus.svg">
+    </a>
+  </span>
+  <span title="Java">
+    <a href="https://www.java.com/en/">
+      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+    </a>
+  </span>
+  <span title="Bash">
+    <a href="https://www.gnu.org/software/bash/">
+      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
+    </a>
+  </span>
+</code>    
 
 ## Databases/Data Formats
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
