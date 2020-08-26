@@ -206,7 +206,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kk289)](https://github.com/kk289)
 
 ## Popular Repo <img height="32" width="32" src="https://simpleicons.org/icons/github.svg" />
-[![GeoSpatial](https://github-readme-stats.vercel.app/api/pin/?username=kk289&repo=GeoSpatial&show_owner=true)](https://github.com/kk289/GeoSpatial)
-[![Airbnb Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=kk289&repo=Airbnb-Price-Prediction&show_owner=true)](https://github.com/kk289/Airbnb-Price-Prediction)
-[![Automate Selenium Login with Java](https://github-readme-stats.vercel.app/api/pin/?username=kk289&repo=Automate-Selenium-Login-with-Java&show_owner=true)](https://github.com/kk289/Automate-Selenium-Login-With-Java)
+[![GeoSpatial](https://github-readme-stats.vercel.app/api/pin/?username=kk289&repo=GeoSpatial)](https://github.com/kk289/GeoSpatial)
+[![Airbnb Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=kk289&repo=Airbnb-Price-Prediction)](https://github.com/kk289/Airbnb-Price-Prediction)
+[![Automate Selenium Login with Java](https://github-readme-stats.vercel.app/api/pin/?username=kk289&repo=Automate-Selenium-Login-with-Java)](https://github.com/kk289/Automate-Selenium-Login-With-Java)
 [![machine-learning-roadmap](https://github-readme-stats.vercel.app/api/pin/?username=mrdbourke&repo=machine-learning-roadmap&show_owner=true)](https://github.com/mrdbourke/machine-learning-roadmap)
